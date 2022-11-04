@@ -1,0 +1,9 @@
+C:\Users\aleksandra.fraczek\source\repos\BillingAPI\BillingAPI.BillingService\bin\Debug\netcoreapp3.1\BillingAPI.BillingService.deps.json
+C:\Users\aleksandra.fraczek\source\repos\BillingAPI\BillingAPI.BillingService\bin\Debug\netcoreapp3.1\BillingAPI.BillingService.dll
+C:\Users\aleksandra.fraczek\source\repos\BillingAPI\BillingAPI.BillingService\bin\Debug\netcoreapp3.1\BillingAPI.BillingService.pdb
+C:\Users\aleksandra.fraczek\source\repos\BillingAPI\BillingAPI.BillingService\obj\Debug\netcoreapp3.1\BillingAPI.BillingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleksandra.fraczek\source\repos\BillingAPI\BillingAPI.BillingService\obj\Debug\netcoreapp3.1\BillingAPI.BillingService.AssemblyInfoInputs.cache
+C:\Users\aleksandra.fraczek\source\repos\BillingAPI\BillingAPI.BillingService\obj\Debug\netcoreapp3.1\BillingAPI.BillingService.AssemblyInfo.cs
+C:\Users\aleksandra.fraczek\source\repos\BillingAPI\BillingAPI.BillingService\obj\Debug\netcoreapp3.1\BillingAPI.BillingService.csproj.CoreCompileInputs.cache
+C:\Users\aleksandra.fraczek\source\repos\BillingAPI\BillingAPI.BillingService\obj\Debug\netcoreapp3.1\BillingAPI.BillingService.dll
+C:\Users\aleksandra.fraczek\source\repos\BillingAPI\BillingAPI.BillingService\obj\Debug\netcoreapp3.1\BillingAPI.BillingService.pdb

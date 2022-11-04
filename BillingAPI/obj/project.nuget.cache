@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "QGa5nuRVK+RDGzBtSP00Lmz8L/woopWFyJq4SPeqX+pBix0+J7oJpc7saNAffOg488lTwRyXg6H2A67BcyOxZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aleksandra.fraczek\\source\\repos\\BillingAPI\\BillingAPI\\BillingAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleksandra.fraczek\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\aleksandra.fraczek\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\aleksandra.fraczek\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\aleksandra.fraczek\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\aleksandra.fraczek\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.1.0\\microsoft.extensions.dependencyinjection.2.1.0.nupkg.sha512",
+    "C:\\Users\\aleksandra.fraczek\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\aleksandra.fraczek\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\aleksandra.fraczek\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\aleksandra.fraczek\\.nuget\\packages\\netcore.autoregisterdi\\2.1.0\\netcore.autoregisterdi.2.1.0.nupkg.sha512",
+    "C:\\Users\\aleksandra.fraczek\\.nuget\\packages\\pdfsharp.netstandard\\1.3.2\\pdfsharp.netstandard.1.3.2.nupkg.sha512",
+    "C:\\Users\\aleksandra.fraczek\\.nuget\\packages\\pdfsharpcore\\1.3.41\\pdfsharpcore.1.3.41.nupkg.sha512",
+    "C:\\Users\\aleksandra.fraczek\\.nuget\\packages\\polybioz.htmlrenderer.pdfsharp.core\\1.0.0\\polybioz.htmlrenderer.pdfsharp.core.1.0.0.nupkg.sha512",
+    "C:\\Users\\aleksandra.fraczek\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
+    "C:\\Users\\aleksandra.fraczek\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta17\\sixlabors.fonts.1.0.0-beta17.nupkg.sha512",
+    "C:\\Users\\aleksandra.fraczek\\.nuget\\packages\\sixlabors.imagesharp\\1.0.4\\sixlabors.imagesharp.1.0.4.nupkg.sha512",
+    "C:\\Users\\aleksandra.fraczek\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\aleksandra.fraczek\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\aleksandra.fraczek\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\aleksandra.fraczek\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\aleksandra.fraczek\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
